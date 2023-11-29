@@ -94,7 +94,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 .side-menu ul li a span.dot {
     position: relative;
-    background-color: #F67F32;
+    background-color: #fb8500;
     border-radius: 2em;
     height: 12px;
     width: 12px;
