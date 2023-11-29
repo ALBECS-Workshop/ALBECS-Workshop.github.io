@@ -108,7 +108,7 @@ a:hover, a:focus, a:active, a:visited {
 
 
 .hero-header {
-	background: #A8CCCC;
+	background: #8ecae6;
 	min-height: 600px;
 	padding: 5em;
 	color: #fff;
@@ -207,6 +207,9 @@ a span.ti-twitter-alt {
 }
 .yelloworange {
 	background-color: #ffb703;
+}
+.lightblue {
+	background-color: #8ecae6;
 }
 .lightorange {
 	background-color: #f7b267;
