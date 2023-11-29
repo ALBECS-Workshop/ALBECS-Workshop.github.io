@@ -202,11 +202,14 @@ a span.ti-twitter-alt {
 	font-size: 0.4em;
 }
 
-.teal {
-    background-color: #E0F0F0;
-}
 .warmorange {
 	background-color: #E9C46A;
+}
+.yelloworange {
+	background-color: #ffb703;
+}
+.lightorange {
+	background-color: #f7b267;
 }
 .orangepicture {
 	background-color: #FD6D06;
